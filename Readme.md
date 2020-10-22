@@ -1,6 +1,6 @@
 **Summary**
 
-We used supervised machine learning techniques and more specifically regression to predict seizures. The database from which we took our data contains EEG recordings of 22 people, in which 9-42 experiments were performed with a small number of them containing one or more episodes of epilepsy. Each experiment contains approximately 1 hour of data from 22 different channels at a frequency of 256 values ​​per second.
+We used supervised machine learning techniques and more specifically regression to predict seizures. The database (https://grantome.com/grant/NIH/U24-NS063930-05) from which we took our data contains EEG recordings of 22 people, in which 9-42 experiments were performed with a small number of them containing one or more episodes of epilepsy. Each experiment contains approximately 1 hour of data from 22 different channels at a frequency of 256 values ​​per second.
 
 We did two tests, one using the epilepsy experiments of the first patient and a second one with random epilepsy experiments from the first 10 patients.
 
